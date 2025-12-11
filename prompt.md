@@ -36,7 +36,7 @@ Here's my shortlist:
 
 2. Wink: https://github.com/ayubf/Wink. I wrote this fully in TypeScript with React on the frontend and Express.js in the backend, along with MongoDB as a database. Simple social media clone. Support for account creation, profile and settings editing, signing in / out, deleting accounts, creating posts, viewing posts through a feed. 
 
-3. Anomalies in Public Transit Ridership: . I wrote this in Python with Streamlit, Numpy, Pandas, Matplotlib. Essentially an investigation of anomalies in public transit ridership between 2020-2025 for New York City, Washington D.C. and Chicago given events like holidays, the COVID-19 pandemic etc. 
+3. Anomalies in Public Transit Ridership: https://anomalies-in-public-transit-ridership.streamlit.app/. I wrote this in Python with Streamlit, Numpy, Pandas, Matplotlib. Essentially an investigation of anomalies in public transit ridership between 2020-2025 for New York City, Washington D.C. and Chicago given events like holidays, the COVID-19 pandemic etc. 
 
 
 {contact_info}
