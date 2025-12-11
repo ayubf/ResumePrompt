@@ -515,17 +515,6 @@ https://drive.google.com/file/d/1ogQ3EcGIQqjrLdq-TIlX416FSmXNtcdb/view
 Here are some well-made examples/partial examples who's structure and content you can copy
 
 ```tex
-
-    \resumeSubheading
-      {Amazon Web Services}{Santa Clara, CA}
-      {Software Development Engineering Intern}{Jun 2023 -- Aug 2023}
-      \resumeItemListStart
-        \resumeItem{Designed and built a troubleshooting interface using TypeScript and React for AWS Cleanrooms ML on-call engineers, reducing troubleshooting initiation time by 90\% (from 2 minutes to 10-15 seconds).}
-        \resumeItem{Developed AWS Lambda functions (in Python) to retrieve resource information based on ARN, streamlining the troubleshooting process.}
-        \resumeItem{Implemented AWS IAM roles and access management for secure and controlled access to resources.}
-        \resumeItem{Enhanced the team's ticket management system, improving collaboration and ticket status tracking.}
-      \resumeItemListEnd
-
     \resumeSubheading
       {Amazon Web Services}{Santa Clara, CA}
       {Software Development Engineering Intern}{Jun 2023 -- Aug 2023}
