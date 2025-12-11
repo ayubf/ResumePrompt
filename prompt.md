@@ -17,9 +17,13 @@ My third internship was as a Software Engineering Intern at Cisco Meraki, in San
 At Cisco Meraki, my project was to add a feature to our dashboard for users to be able to search firewall rules on their organization based on attributes like source IP, destination IP, port, protocol, etc. The frontend I wrote in TypeScript with React and Redux, and the backend code was written in Ruby with Ruby on Rails. I also wrote unit tests and integration tests. As a stretch goal, I also added a feature where users would give natural language input into a new field and then we use OpenAI's ChatGPT API to fill in the remaining fields in the search form. 
 
 I also have a summer experience with Google, where I did an online summer program called the Google CSSI. Here are the bullet points: 
+
 • Participated in a 4-week intensive computer science summer program for high-achieving students.
+
 • Completed an introductory project-based HTML/CSS and JavaScript curriculum taught by Google engineers.
+
 • Attended product design, resume development, and software engineering interview workshops.
+
 • Delivered a collaborative final project presentation that included a live demonstration to Google employees and
 community leaders.
 
@@ -34,6 +38,8 @@ Here's my shortlist:
 
 3. Anomalies in Public Transit Ridership: . I wrote this in Python with Streamlit, Numpy, Pandas, Matplotlib. Essentially an investigation of anomalies in public transit ridership between 2020-2025 for New York City, Washington D.C. and Chicago given events like holidays, the COVID-19 pandemic etc. 
 
+
+{contact_info}
 
 __ASK__ 
 
