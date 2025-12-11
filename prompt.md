@@ -46,8 +46,54 @@ __ASK__
 Create a resume for me given my situation and goals. 
 
 
-__CONTRAINTS__
+__CONSTRAINTS__
+
+- Response must be a valid .tex file
+
+- Must use Jake's Resume template or similar
+
+-Prioritize relevance: Include only experiences, projects, and skills that directly support the target role. Remove anything outdated, irrelevant, or low-impact.
+
+-Outcome-focused: Each bullet must highlight measurable results or impact (metrics, improvements, efficiencies, revenue, scale). Avoid task-only descriptions.
+
+-Readability first: Use short bullets, clean formatting, and scannable structure. Avoid dense paragraphs.
+
+-Technical accuracy: All technologies, tools, and accomplishments must be truthful and correct.
+
+-Strong signal-to-noise ratio: Maximize meaningful information per line; eliminate filler, clichés, and generic claims.
+
+-Role-aligned narrative: Convey a coherent story tailored to the job description, showing career progression and relevant expertise.
+
+-One-page target: Keep to one page unless you have over 10 years of experience.
+
+-Avoid repetition: Do not restate the same skills, projects, or achievements across sections.
+
+-ATS-compatible: Use standard section headers, simple formatting, no images or complex tables that break parsing.
+
+-Use industry-standard wording: Keywords and phrasing should align with modern hiring expectations in software engineering.
 
 __STYLE__
 
+-Crisp, clear, confident tone: Direct, strong statements with no exaggeration or fluff.
+
+-Begin bullets with strong action verbs (“Built,” “Designed,” “Optimized,” “Deployed,” “Refactored,” “Led”).
+
+-Quantify wherever possible: Include numbers, percentages, scale, speedups, savings, or user counts.
+
+-Problem → Action → Outcome structure: Each bullet should follow this logical progression.
+
+-Consistent formatting: Maintain the same tense, bullet style, and spacing throughout.
+
+-Focus on personal accomplishments: Highlight individual contributions, not just team efforts, unless relevant.
+
+-Show initiative and ownership: Demonstrate leadership, decision-making, and autonomy.
+
+-Prefer specificity over generality: Detail concrete results rather than vague improvements.
+
+-Modern, industry-aligned language: Use terminology and phrasing expected by engineering managers and recruiters in 2025.
+
+-Clarity over cleverness: Make every bullet instantly understandable to a skim-reader.
+
+
 __EXAMPLES__
+
